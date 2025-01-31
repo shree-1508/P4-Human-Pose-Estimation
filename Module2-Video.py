@@ -6,7 +6,7 @@ mp_pose = mp.solutions.pose
 mp_drawing = mp.solutions.drawing_utils  # For drawing landmarks
 
 # Set video source: 0 for webcam, or replace with a video file path
-video_source = "C:\Users\shrih\Desktop\Human Pose Estimation\P4-Human-Pose-Estimation\run.mov"  # Change to 1 or 2 if you have multiple webcams
+video_source = "P4-Human-Pose-Estimation\run.mov"  # Change to 1 or 2 if you have multiple webcams
 cap = cv2.VideoCapture(video_source)
 
 # Set video resolution for webcam (optional, adjust as needed)
