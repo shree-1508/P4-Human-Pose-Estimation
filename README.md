@@ -80,7 +80,7 @@ Verifies if **MediaPipe** is correctly installed and working.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shree-1508-P4-Human-Pose-Estimation.git
+   git clone https://github.com/shree-1508/P4-Human-Pose-Estimation.git
    cd shree-1508-P4-Human-Pose-Estimation 
    ```
 
