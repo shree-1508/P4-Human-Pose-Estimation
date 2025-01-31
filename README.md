@@ -1,5 +1,5 @@
 
-# AICTE Internship - Human Pose Estimation using Machine Learning(P4)
+# AICTE Techsaksham Internship - Human Pose Estimation using Machine Learning(P4)
 
 Welcome to the AICTE- Internship on AI: Transformative Learning with TechSaksham – A joint CSR initiative of Microsoft & SAP, focusing on AI Technologies Human Pose Estimation using Machine Learning (P4) Internship repository! This project focuses on human pose estimation using OpenCV and MediaPipe, along with motion detection capabilities. It also includes a Streamlit-based web app for pose estimation visualization.
 
