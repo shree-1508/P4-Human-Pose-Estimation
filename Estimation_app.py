@@ -5,7 +5,7 @@ from PIL import Image
 import streamlit as st
 
 # File paths and constants
-DEMO_IMAGE = 'C:\Users\shrih\Desktop\Human Pose Estimation\P4-Human-Pose-Estimation\stand.jpg'
+DEMO_IMAGE = 'P4-Human-Pose-Estimation\stand.jpg'
 
 BODY_PARTS = {
     "Nose": 0, "Neck": 1, "RShoulder": 2, "RElbow": 3, "RWrist": 4,
