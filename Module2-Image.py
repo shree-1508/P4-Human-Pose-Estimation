@@ -7,7 +7,7 @@ pose = mp_pose.Pose(static_image_mode=True, min_detection_confidence=0.5)
 mp_drawing = mp.solutions.drawing_utils
 
 # Load an image
-image_path = "C:\Users\shrih\Desktop\Human Pose Estimation\P4-Human-Pose-Estimation\HPE.png"
+image_path = "P4-Human-Pose-Estimation\HPE.png"
 image = cv2.imread(image_path)
 if image is None:
     print("Error: Unable to load the image. Check the file path.")
